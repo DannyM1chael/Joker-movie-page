@@ -158,8 +158,9 @@ header {
       .banner .content .social li {
         list-style: none;
         margin: 0 5px; }
-    .banner .trailer video {
-      max-width: 90%;
-      outline: none; } }
+
+  .trailer video {
+    max-width: 90%;
+    outline: none; } }
 
 /*# sourceMappingURL=style.css.map */
